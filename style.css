@@ -1,0 +1,25 @@
+body{
+    background-color: peachpuff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    flex-direction: column;
+    margin: 20px 20px;
+    padding: 20px 20px;
+    align-items: center;
+    font-size: 25px;
+
+}
+input{
+    height: 50px;
+    width: 100px;
+    margin: 20px 20px;
+}
+button{
+    height: 100px;
+    width: 100px;
+    margin: 20px 20px;
+    border-radius: 50%;
+    border: none;
+    font-size: 20px;
+    background-color: rgb(247, 187, 127);
+}
